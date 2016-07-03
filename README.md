@@ -18,9 +18,9 @@ Extract the source code, and open a terminal in the extracted folder.
 
 Use the following command to install this package. 
 
-** Note: Make sure that you have proper internet connection **
+**Note: Make sure that you have proper internet connection**
 
-** $ sudo python setup.py install **
+**$ sudo python setup.py install**
 
 Try the example code which is given below
 
