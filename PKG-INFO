@@ -1,0 +1,23 @@
+Metadata-Version: 0.1
+Name: pyoverflow
+Version: 0.1
+Summary: Python bindings for getting stackoverflow solutions on web.
+Home-page: http://www.technolabsz.com/
+Author: Lentin Joseph
+Author-email: lentin007@gmail.com
+License: BSD
+Description: pyoverflow
+        ======
+        
+        Provides instant stackoverflow solutions inside a webbrowser when python code encounter a runtime error.
+        
+        http://www.technolabsz.com
+Platform: Ubuntu 14.04.3
+Classifier: Development Status :: Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Environment :: Console
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires: google
+Provides: pyoverflow
