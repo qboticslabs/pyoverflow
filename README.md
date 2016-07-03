@@ -1,6 +1,6 @@
-#PyOverFlow : Automated solution searching for run time errors !!
+#pyoverflow : Automated solution finder for run time errors !!
 
-##Provides instant stackoverflow solutions inside a webbrowser when python code encounter a runtime error.
+##Provides instant stackoverflow solutions inside a web browser when python code encounter a runtime error.
 
 Hi all 
 
@@ -14,10 +14,13 @@ The source code of the package is on the following link
 
 https://pypi.python.org/pypi/pyoverflow
 
-Extract the source code, and open a terminal in the extracted folder
+Extract the source code, and open a terminal in the extracted folder.
 
-Use the following command to install this package, Note: Make sure that you have proper internet connection
-$ sudo python setup.py install
+Use the following command to install this package. 
+
+** Note: Make sure that you have proper internet connection **
+
+** $ sudo python setup.py install **
 
 Try the example code which is given below
 
