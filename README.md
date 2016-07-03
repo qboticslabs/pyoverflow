@@ -1,6 +1,6 @@
-PyOverFlow : Automated solution searching for run time errors !!
-======
-Provides instant stackoverflow solutions inside a webbrowser when python code encounter a runtime error.
+#PyOverFlow : Automated solution searching for run time errors !!
+
+##Provides instant stackoverflow solutions inside a webbrowser when python code encounter a runtime error.
 
 Hi all 
 
