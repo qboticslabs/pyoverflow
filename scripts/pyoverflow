@@ -43,12 +43,24 @@ def submit_err(error_msg,no_solution):
 	print "Pyoverflow is checking for the top solutions for your code problems" 
 	print ":)"
 	print "\n" 
-	search_word = "python"+" "+str(error_msg)
-	for url in search(search_word, stop=2):
-		search_result.append(url)
 
-	for i in range(0,no_solution):
-		#print search_result[i]
-		print "Opening"+"\t"+str(i)+" solution in browser"
-		webbrowser.open_new_tab(search_result[i])
+	try:
+		search_word = "python"+" "+str(error_msg)
+		for url in search(search_word, stop=2):
+			search_result.append(url)
+	except Exception as e:
+		print e
+		sys.exit(0)
+	
+	try:	
+		if(int(no_solution) > 0):
+			for i in range(0,int(no_solution)):
+				#print search_result[i]
+				print "Opening"+"\t"+str(i)+" solution in browser"
+				webbrowser.open_new_tab(search_result[i])
+		else:
+			print "Number of solutions should be > 0"
 
+	except Exception as e:
+		print e
+		sys.exit(0)
