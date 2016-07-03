@@ -22,7 +22,7 @@ Use the following command to install this package.
 
 **$ sudo python setup.py install**
 
-Try the example code which is given below
+Try the example code inside the **pyoverflow/examples** folder
 
 
 
