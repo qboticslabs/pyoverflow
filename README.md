@@ -9,7 +9,7 @@ Here is one python package that i made for automating "stackoverflow-ing" when o
 We can also mention number of solutions we want, if any exceptions occurred. When an exception occurred, it will automatically search for the solution to fix the exception !!
 
 
-[![gif with examples][http://gph.is/29qHDjv]][examples-link]
+[![gif with examples][http://gph.is/29qHDjv]][http://gph.is/29qHDjv]
 
 
 ##Installing pyoverflow
