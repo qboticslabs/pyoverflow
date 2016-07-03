@@ -27,6 +27,8 @@ Use the following command to install this package.
 
 Try the example code inside the **pyoverflow/examples** folder
 
+Check blog : http://www.technolabsz.com/2016/07/pyoverflow-automated-solution-searching.html
+
 [examples-link]:   https://raw.githubusercontent.com/qboticslabs/pyoverflow/master/pyoverflow.gif
 
 
